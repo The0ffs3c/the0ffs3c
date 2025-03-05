@@ -35,6 +35,6 @@ I’m always eager to connect, learn, and collaborate with fellow cybersecurity 
 ![Visitor Count](https://profile-counter.glitch.me/the0ffs3c/count.svg)
 
 ## 💰 You can support me by Donating:
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.me/akshaymahant)
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.me/akshaymahant781)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
